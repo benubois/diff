@@ -53,7 +53,7 @@ performance.</p>
   <td align="right">21,869</td>
 </tr>
 <tr>
-  <td>15″ MacBook Pro w/ 2.9 GHz Core i9</td>
+  <td>15&#8221; MacBook Pro w/ 2.9 GHz Core i9</td>
   <td align="right">5,653</td>
   <td align="right">21,737</td>
   <td align="right">59,010</td>
@@ -61,7 +61,7 @@ performance.</p>
 </tbody>
 </table>
 
-<p>That 15-inch MacBook Pro costs $3,100 with the base amount of RAM and storage. The new iPad Pro starts at $800. That’s not an entirely fair comparison — for one thing, the base storage for that MacBook Pro is 512 GB and for the iPad it’s 64 GB. But even with 512 GB of storage, the new iPad Pro is just $1,150 for the 11-inch model and $1,350 for the 12.9-inch. <em>And that&#8217;s the current top-of-the-line MacBook Pro.</em> The new iPads are <em>faster</em> than most recent MacBook Pro models.</p>
+<p>That 15-inch MacBook Pro costs $3,100 with the base amount of RAM and storage. The new iPad Pro starts at $800. That’s not an entirely fair comparison — for one thing, the base storage for that MacBook Pro is 512 GB and for the iPad it’s 64 GB. But even with 512 GB of storage, the new iPad Pro is just $1150 for the 11-inch model and $1,350 for the 12.9-inch. <em>And that&#8217;s the current top-of-the-line MacBook Pro.</em> The new iPads are <em>faster</em> than most recent MacBook Pro models.</p>
 
 <p>“No one buys an iPad because of CPU benchmarks”, I wrote last year. I don’t think that’s true any more. I think there are people who will and should buy the new iPad Pro because of its performance. At the hands-on area after last week’s event, Apple was showing Adobe Lightroom editing 50 megapixel RAW images from a Hasselblad camera. The photos were by Austin Mann, who was there, and helpfully demoed the software, showing what a real pro photographer would do in real life with real images. The experience was completely fluid and instantaneous.</p>
 
@@ -75,8 +75,8 @@ performance.</p>
 
 <ul>
 <li><p>Matte finish. I never really thought to complain about the glossy texture of the original Pencil, but the moment I laid hands on the new one I realized matte is better for this product.</p></li>
-<li><p>Magnetic charging and pairing. When rumors surfaced that the new iPad Pros were moving from Lightning to USB-C, there was a lot of speculation that Apple would need to make a new Pencil with USB-C. This is so much better. As a nice touch, when you first connect the Pencil to your iPad, iOS <a href="/misc/2018/11/apple-pencil.jpeg">shows you a Pencil on screen and it&#8217;s the <em>exact</em> size of the actual Pencil</a>. It&#8217;s adorable. With the original Pencil, Apple didn&#8217;t provide a good answer for where you were supposed to keep it when it wasn&#8217;t in your hand. The magnetic connection answers that. It&#8217;s strong enough that I wouldn&#8217;t hesitate to keep the Pencil connected magnetically when putting the iPad in a backpack.</p></li>
-<li><p>No cap, no dongle. It took me almost two years, but last month I finally lost the cap to my original Pencil on a train. The new Pencil has no pieces to lose.</p></li>
+<li><p>Magnetic charging and pairing. When rumors surfaced that the new iPad Pros were moving from Lighting to USB-C, there was a lot of speculation that Apple would need to make a new Pencil with USB-C. This is so much better. As a nice touch, when you first connect the Pencil to your iPad, iOS <a href="/misc/2018/11/apple-pencil.jpeg">shows you a Pencil on screen and it&#8217;s the <em>exact</em> size of the actual Pencil</a>. It&#8217;s adorable. With the original Pencil, Apple didn&#8217;t provide a good answer for where you were supposed to keep it when it wasn&#8217;t in your hand. The magnetic connection answers that. It&#8217;s strong enough that I wouldn&#8217;t hesitate to keep the Pencil connected magnetically when putting the iPad in a backpack.</p></li>
+<li><p>No cap, no dongle. It took me almost two years, but last month I finallyn lost the cap to my original Pencil on a train. The new Pencil has no pieces to lose.</p></li>
 <li><p>Flat side. The old Pencil was weighted to keep it from rolling, but a flat side works better. There&#8217;s a reason why most pens and pencil either have clips or at least one flat side.</p></li>
 <li><p>Optional engraving. I wonder how much of this is a &#8220;<em>Why not?</em>&#8221; thing and how much is fueled by the real-world scenario of coworkers or family members losing track of whose Pencil is whose.</p></li>
 <li><p>Double-tap. Seems like a such a small thing, but it really does make accessing the eraser easier.</p></li>
@@ -86,9 +86,9 @@ performance.</p>
 
 <h2>Size and Form Factor</h2>
 
-<p>Apple doesn&#8217;t always explain their thinking, but when they do, it usually makes perfect sense. Their explanation for the physical sizes of the two iPad Pros is a good example. They kept the physical size of the 11-inch device the same as that of the 10.5-inch iPad, and increased the display size. They did this so that a keyboard cover would still offer a full-sized keyboard. With the 12.9-inch model, they kept the display size the same and shrunk the physical device, making it noticeably smaller and lighter.</p>
+<p>Apple doesn&#8217;t always explaining their thinking, but when they do, it usually makes perfect sense. Their explanation for the physical sizes of the two iPad Pros is a good example. They kept the physical size of the 11-inch device the same as that of the 10.5-inch iPad, and increased the display size. They did this so that a keyboard cover would still offer a full-sized keyboard. With the 12.9-inch model, they kept the display size the same and shrunk the physical device, making it noticeably smaller and lighter.</p>
 
-<p>I&#8217;ve been using the 12.9-inch model for testing over the last five days. It&#8217;s a lot easier and more comfortable to hold. There have been times when I forgot I was using the &#8220;big&#8221; iPad. When my wife &#8212; an avid iPad user currently using a 10.5-inch iPad Pro &#8212; first saw it, she couldn&#8217;t believe it was the bigger one. She never really considered getting the previous 12.9-inch iPad, but after some time using this review unit, she&#8217;s convinced she wants this size. I think everyone should go try them in a store before ordering, but I suspect most people who use an iPad as their primary &#8220;bigger than a phone&#8221; portable computer will prefer the 12.9-inch model, the same way most people prefer 13-inch MacBooks over smaller ones like the 12-inch MacBook or late, great 11-inch MacBook Air.</p>
+<p>I&#8217;ve been using the 12.9-inch model for testing over the last five days. It&#8217;s a lot easier and more comfortable to hold. There have been times when I forgot I was using the &#8220;big&#8221; iPad. When my wife &#8212; an avid iPad user currently using a 10.5-inch iPad Pro &#8212; first saw it, she couldn&#8217;t believe it was the bigger one. She never really considered getting the previous 12.9-inch iPad, but after some time using this review unit, she&#8217;s convinced she wants this size. I think everyone should go try them in a store before ordering, but I suspect most people who use an iPad as their primary &#8220;bigger than a phone&#8221; portable computer will prefer the 12.9-inch model, the same way most people prefer 13-inch MacBooks over smaller ones like the 12-inch MacBook or late great 11-inch MacBook Air.</p>
 
 <p>Personally, I still prefer the smaller size. But I don&#8217;t use an iPad as my primary portable for work, and these new iPad Pros aren&#8217;t going to change that.</p>
 
@@ -102,9 +102,9 @@ performance.</p>
 
 <h2>Cameras and Face ID</h2>
 
-<p>In years past, new iPads often used the cameras from iPhones &#8212; usually a generation or two behind. The new iPad Pros have their own all-new rear-facing camera. It&#8217;s not exactly like any previous iOS device&#8217;s camera. I haven&#8217;t had time to test it thoroughly, so I&#8217;m not sure where it stands compared to recent iPhone cameras, but it seems like a step up from the previous iPad Pro camera.</p>
+<p>In years past, new iPads often used the cameras from iPhones &#8212; usually a generation or two behind. The new iPad Pros have their own all new rear-facing camera. It&#8217;s not exactly like any previous iOS device&#8217;s camera. I haven&#8217;t had time to test it thoroughly, so I&#8217;m not sure where it stands compared to recent iPhone cameras, but it seems like a step up from the previous iPad Pro camera.</p>
 
-<p>The front-facing camera is based on the one from iPhone XS and XR. This allows for Portrait Mode (you cannot use Portrait Mode with the rear-facing camera).</p>
+<p>The front facing camera is based on the one from iPhone XS and XR. This allows for Portrait Mode (you cannot use Portrait Mode with the rear-facing camera).</p>
 
 <p>Face ID works great. You must train it in portrait orientation, but once trained (and training is quick, just like with iPhone X-class phones) it just works in any orientation. The only hitch I&#8217;ve noticed is that it&#8217;s common to use iPads while laying down. Face ID can struggle then.</p>
 
@@ -116,7 +116,7 @@ performance.</p>
 <li><p>The speakers sound amazing. I&#8217;m not sure how much better they are than the previous iPad Pro speakers, but they&#8217;re loud and clear and provide a surprising amount of stereo. It&#8217;s a great little TV.</p></li>
 <li><p>I firmly believe that the iOS Files app should show attached USB drives. I believed this before, when USB peripherals needed to be attached using a Lightning adapter, but now that iPad Pros have a USB-C port, it seems downright silly that USB drives don&#8217;t appear in the Files app. I think the iPad&#8217;s old policy of not even having a Files app at all made sense. I&#8217;m glad Apple added the Files app, but it made sense not to have one in the name of simplicity. But it doesn&#8217;t make sense to me to have a Files app but <em>not</em> show the contents of USB drives when you connect them. This just feels spiteful.</p></li>
 <li><p>In addition to tapping the display with your finger to wake it, you can tap it with the Apple Pencil to jump right into Notes. There are settings to always open a new note or re-open your most recent note. It&#8217;s very clever, and I think some people will use this <em>all the time</em>.</p></li>
-<li><p>The new Smart Keyboard Folio cover is a much better design than the old Smart Keyboard. As promised by Apple, it&#8217;s much sturdier and more stable. Apple is really serious about all these magnets. They work. The downside, though, is that it&#8217;s thicker on the device, because it covers the front and back. I think this trade-off is worth it. The old Smart Keyboard was simply too clever. It&#8217;s still the case, and always will be, that an iPad Pro in &#8220;laptop mode&#8221; is very top heavy compared to a real notebook computer. On a MacBook, the base is the heavy part and display is light; with an iPad Pro it&#8217;s the other way around. Keyboard-wise, the new one feels about the same to me as the old one. <em>Maybe</em> the new one has a bit more click to it, but that could be me feeling what I want to feel &#8212; me succumbing to the reviewer&#8217;s placebo effect.</p></li>
+<li><p>The new Smart Keyboard Folio cover is a much better design than the old Smart Keyboard. As promised by Apple, it&#8217;s much sturdier and more stable. The downside, though, is that it&#8217;s thicker on the device, because it covers the front and back. I think this trade-off is worth it. The old Smart Keyboard was simply too clever. It&#8217;s still the case, and always will be, that an iPad Pro in &#8220;laptop mode&#8221; is very top heavy compared to a real notebook computer. On a MacBook, the base is the heavy part and display is light; with an iPad Pro it&#8217;s the other way around. Keyboard-wise, the new one feels about the same to me as the old one. <em>Maybe</em> the new one has a bit more click to it, but that could be me feeling what I want to feel &#8212; me succumbing to the reviewer&#8217;s placebo effect.</p></li>
 </ul>
 
 <h2>The Bottom Line</h2>
